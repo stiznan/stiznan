@@ -9,8 +9,8 @@
 💬 Ask me about: vertical farming, optimization of resources, and where you like to ski! Bonus points if you are a fellow sneakerhead!
 
 📫 How to reach me: 
-- Email:    [Email](stanleyrevans@gmail.com)
-- LinkedIn: [LinkedIn Page](https://www.linkedin.com/in/stanley-evans-25820014/)
+- [Email](stanleyrevans@gmail.com)
+- [LinkedIn Page](https://www.linkedin.com/in/stanley-evans-25820014/)
 
 ⚡ Fun fact: Formerly an enterprise sales lead who loved building networks and connecting systems, I dropped it all to pursue data science ultimately. I love the community, decision science, and the enablement of my curiosity to drive business value and create efficient systems for the betterment of society! Huge supporter of smart agriculture and the IoT enviroments fostered. My goal is to be further involved in IoT for many different industries and using the data analysis to create more efficient opportunities and business value.
 
