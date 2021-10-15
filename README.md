@@ -12,5 +12,5 @@
 - stanleyrevans@gmail.com
 - [LinkedIn Page](https://www.linkedin.com/in/stanley-evans-25820014/)
 
-⚡ Fun fact: Formerly an enterprise sales lead who loved building networks and connecting systems, I dropped it all to pursue data science ultimately. I love the community, decision science, and the enablement of my curiosity to drive business value and create efficient systems for the betterment of society! Huge supporter of smart agriculture and the IoT enviroments fostered. My goal is to be further involved in IoT for many different industries and using the data analysis to create more efficient opportunities and business value.
+⚡ Fun fact: Formerly an enterprise sales lead who loved building networks and connecting systems. I wanted to apply statistical methods to business problems and process imprvements. Fast forward to 2021 and I am completing my Master's of Data Science! I love the community, decision science, and the enablement of my curiosity to drive business value and create efficient systems for the betterment of society! Huge supporter of smart agriculture and the IoT enviroments fostered. My goal is to be further involved in IoT for many different industries and using the data analysis to create more efficient opportunities and business value.
 
