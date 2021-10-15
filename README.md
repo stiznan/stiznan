@@ -4,7 +4,7 @@
   
   
 
-👯 I’m looking to collaborate on ...anything IoT or customer journey related. I also love cleaning data and the process of analysis between multiple POS systems.
+👯 I’m looking to collaborate on ...anything IoT or customer journey related. I also love cleaning data and the process of analysis between database systems.
 
 💬 Ask me about: vertical farming, optimization of resources, and where you like to ski! Bonus points if you are a fellow sneakerhead!
 
