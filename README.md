@@ -12,5 +12,9 @@
 - stanleyrevans@gmail.com
 - [LinkedIn Page](https://www.linkedin.com/in/stanley-evans-25820014/)
 
+
+ :floppy_disk: Portfolio projects for review:
+- [Nutrition Wrangle and EDA](https://github.com/stiznan/stiznan/blob/main/EDA%20%26%20SKLearn%20Linear%20Regression%20Stretch%20Project.ipynb)
+
 ⚡ Fun fact: Formerly an enterprise sales lead who loved building networks and connecting systems. I wanted to apply statistical methods to business problems and process improvements. Fast forward to 2021 and I am completing my Master's of Data Science! I love the community, decision science, and the enablement of my curiosity to drive business value and create efficient systems for the betterment of society! A massive supporter of smart agriculture and the IoT environments fostered. My goal is to be further involved in IoT for many different industries and using data analysis to create more efficient opportunities and business value.
 
