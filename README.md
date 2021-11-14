@@ -16,6 +16,7 @@
  :floppy_disk: Portfolio projects for review:
 - [Nutrition Wrangle and EDA](https://github.com/stiznan/stiznan/blob/main/EDA%20%26%20SKLearn%20Linear%20Regression%20Stretch%20Project.ipynb)
 - [EDA with SKLearn](https://github.com/stiznan/stiznan/blob/main/EDA%20Example%20-%20Country%20Health%20Rankings%20with%20SKLearn.ipynb)
+- [Wrangling dirty dataset from txt file into dataframe](https://github.com/stiznan/stiznan/blob/main/Unstructured%20dataset%20wrangle%20example.ipynb)
 - Projects for Practicum:
    -  [Practicum of US Energy Information, Consumer Index, and Bureau of Labor Statistics (ML, Multiple Regression, EDA, & Data Wrangling | Cleaning)](https://github.com/stiznan/stiznan/tree/main/Energy%20Cost%2C%20Inflation%2C%20Consumer%20Sentiment)
    
