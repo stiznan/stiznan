@@ -19,8 +19,9 @@
 - [Wrangling dirty dataset from txt file into dataframe](https://github.com/stiznan/stiznan/blob/main/Unstructured%20dataset%20wrangle%20example.ipynb)
 
 🎓 Projects for Practicum:
+   - This practicum is to determine if inflation in the United States is a driving factor of the consumer sentiment drop in recent months. By reviewing monthly data going back as far as 2001 I was able to gain insights into what is a driving force of consumer sentiment in the United States using both multiple regresssion, two-way anova, and predictions in random forest regression. 
   - [Practicum of US Energy Information, Consumer Index, and Bureau of Labor Statistics (ML, Multiple Regression, EDA, & Data Wrangling | Cleaning)](https://github.com/stiznan/stiznan/tree/main/Energy%20Cost%2C%20Inflation%2C%20Consumer%20Sentiment)
-  - This practicum is to determine if inflation in the United States is a driving factor of the consumer sentiment drop in recent months. By reviewing monthly data going back as far as 2001 I was able to gain insights into what is a driving force of consumer sentiment in the United States using both multiple regresssion, two-way anova, and predictions in random forest regression. 
+  
    
 
 ⚡ Fun fact: Formerly an enterprise sales lead who loved building networks and connecting systems. I wanted to apply statistical methods to business problems and process improvements. Fast forward to 2021 and I am completing my Master's of Data Science! I love the community, decision science, and the enablement of my curiosity to drive business value and create efficient systems for the betterment of society! A massive supporter of smart agriculture and the IoT environments fostered. My goal is to be further involved in IoT for many different industries and using data analysis to create more efficient opportunities and business value.
