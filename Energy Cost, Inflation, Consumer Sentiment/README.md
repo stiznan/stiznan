@@ -34,7 +34,44 @@
  <img src="https://user-images.githubusercontent.com/70237462/145615713-5f306e5e-d866-4351-9bd9-ab0cfffcb2d6.png" width=75% height=75%>
  
  Considering how large a correlation matrix would be for this many features I believed the best way to address these features was through a VIF test.
- ![image](https://user-images.githubusercontent.com/70237462/145616056-479c2d94-9b45-45ab-8aff-0e7422276ca2.png)
+ ![image](https://user-images.githubusercontent.com/70237462/145616128-c49b409e-18b2-4f7f-80bf-5c4f0542e107.png)
+ ![image](https://user-images.githubusercontent.com/70237462/145616270-9566a22c-8c91-423f-97b9-b71870b1819e.png)
+ 
+ Once features were chosen and removed I move forward with the multiple linear regression testing. The result showed promising results:
+ ![image](https://user-images.githubusercontent.com/70237462/145616522-ea11fd7e-b514-4ee5-af30-e3ebfcd862b1.png)
+ 
+ ![image](https://user-images.githubusercontent.com/70237462/145616560-191ab0e7-63c1-40e8-9ead-2b821f71ad45.png)
+
+Findings:
+
+This model is considered to be a better with independet variables included given the f-statistic p-value of 1.51e-77
+
+The following features meet the .05 level:
+
+Residential Natural Gas Price
+Electrical Price
+Commodity Prices
+Bacon
+Bananas
+Bread
+Chicken
+Eggs
+Inflation
+
+Surprising that gas unleaded prices and milk do not meet the .05 level.
+
+Coefficients of p-values meeting the .05 level
+Resi_Gas -0.1166
+Elect_Price 0.2706
+Bacon 0.2178
+Bananas -0.2587
+Bread -0.4809
+Chicken 0.1626
+Eggs 0.0871
+Inflation 0.0697
+
+Residential Natural Gas increases cause negative sentiment, as well as Bananas and Bread. However surprisingly Inflation increases cause a positive increase in sentiment.
+
 
 
 
