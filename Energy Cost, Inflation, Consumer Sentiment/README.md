@@ -76,4 +76,25 @@ And when this model was tested against the test set, it reflects the unexplained
 ![image](https://user-images.githubusercontent.com/70237462/145617105-059d4009-de0f-4222-8301-db288813231a.png)
 
 
+## Random Forest Regressor Model
+Given that a linear regression model is parametric, I would like to see how a nonparametric model performs. I will introduce a random forest regressor model. 
+
+
+![image](https://user-images.githubusercontent.com/70237462/145617934-72efee57-be2e-4dde-9499-24f49742a0a2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/70237462/145617901-2c8b1dc2-5b6c-46f4-9c1d-5d00faeaccd1.png)
+
+
+#### R-squared: 0.978<br>MSE:  0.0021<br>RMSE:  0.001<br>
+Interpretation:
+
+Having a R-Squared of 97.8% shows our explained variance. We could say that this model accounts for 97.8% of the variance in consumer sentiment. Having a mean squared error of 0.0021 shows how close to the slope we truly are and the root mean squared error is our standard deviation of these residual errors. In other words this model is very accurate. There could be cause for concern of overfitting, but given this is a decision tree based model this is a reduced risk.  
+
+## Conclusion:<br>
+
+Overall, I see that consumer sentiment is is predicted by the use of the independent variables chosen through EIA, Inflation index, and Bureau of Labor Statistics. Having a F-statistic being so substantially low confirms this. However, given that the assumptions of a parametric test are a concern I chose to include a Random Forest Regressor model to involve nonparametric methods. This resulted in an R-Squared of 97.9% compared to the Multiple Linear Regression that was 81%. I conclude that a nonparametric model is best given the distribution of the dependent variable and the variances of the independent variables.
+
+
 
