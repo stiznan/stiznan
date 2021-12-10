@@ -28,6 +28,15 @@
   Given how cyclical much of the data was, I belived it was best to fill null values with median prices.
   
   ![image](https://user-images.githubusercontent.com/70237462/145615439-450facd8-3df3-4dfe-9fc7-5c02d203a339.png)
+  
+  I addressed outliers by applying a MinMax Scaler and then started the feature selection process with a Random Forest Regressor to determine importance.
+  
+ <img src="https://user-images.githubusercontent.com/70237462/145615713-5f306e5e-d866-4351-9bd9-ab0cfffcb2d6.png" width=75% height=75%>
+ 
+ Considering how large a correlation matrix would be for this many features I believed the best way to address these features was through a VIF test.
+ ![image](https://user-images.githubusercontent.com/70237462/145616056-479c2d94-9b45-45ab-8aff-0e7422276ca2.png)
+
+
 
 
 
