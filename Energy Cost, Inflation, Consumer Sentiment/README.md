@@ -102,4 +102,4 @@ Having a R-Squared of 97.8% shows our explained variance. We could say that this
 Overall, I see that consumer sentiment is is predicted by the use of the independent variables chosen through EIA, Inflation index, and Bureau of Labor Statistics. Having a F-statistic being so substantially low confirms this. However, given that the assumptions of a parametric test are a concern I chose to include a Random Forest Regressor model to involve nonparametric methods. This resulted in an R-Squared of 97.9% compared to the Multiple Linear Regression that was 81%. I conclude that a nonparametric model is best given the distribution of the dependent variable and the variances of the independent variables.
 
 
-
+### Please see Two-Way ANOVA for brief exploration into interactions between Consumer Sentiment, Gas Price, and Inflation Factors.
