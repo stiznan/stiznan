@@ -103,3 +103,5 @@ Overall, I see that consumer sentiment is is predicted by the use of the indepen
 
 
 ### Please see Two-Way ANOVA for brief exploration into interactions between Consumer Sentiment, Gas Price, and Inflation Factors.
+
+https://github.com/stiznan/stiznan/blob/main/Energy%20Cost%2C%20Inflation%2C%20Consumer%20Sentiment/Two-way%20ANOVA.ipynb
