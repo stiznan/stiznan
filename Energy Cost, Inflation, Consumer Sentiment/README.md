@@ -79,9 +79,14 @@ And when this model was tested against the test set, it reflects the unexplained
 ## Random Forest Regressor Model
 Given that a linear regression model is parametric, I would like to see how a nonparametric model performs. I will introduce a random forest regressor model. 
 
+I first determined the number of trees that would be optimial for this model:
+
+![image](https://user-images.githubusercontent.com/70237462/145618143-88b26327-4de6-4bab-b4fe-1e0828ba1408.png)
+
 
 ![image](https://user-images.githubusercontent.com/70237462/145617934-72efee57-be2e-4dde-9499-24f49742a0a2.png)
 
+### When I follow the effect of n_estimators we see that around 140 trees is best for the future model. So we will now apply this to the model. 
 
 
 ![image](https://user-images.githubusercontent.com/70237462/145617901-2c8b1dc2-5b6c-46f4-9c1d-5d00faeaccd1.png)
