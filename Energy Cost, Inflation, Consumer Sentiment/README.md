@@ -42,38 +42,38 @@
  
  ![image](https://user-images.githubusercontent.com/70237462/145616560-191ab0e7-63c1-40e8-9ead-2b821f71ad45.png)
 
-Findings:
+### Findings:
 
 This model is considered to be a better with independet variables included given the f-statistic p-value of 1.51e-77
 
 The following features meet the .05 level:
+- Residential Natural Gas Price
+- Electrical Price <br>
+#### Commodity Prices <br>
+- Bacon
+- Bananas 
+- Bread
+- Chicken
+- Eggs
+- Inflation
 
-Residential Natural Gas Price
-Electrical Price
-Commodity Prices
-Bacon
-Bananas
-Bread
-Chicken
-Eggs
-Inflation
+Surprising that gas unleaded prices and milk do not meet the .05 level. 
 
-Surprising that gas unleaded prices and milk do not meet the .05 level.
+#### Coefficients of p-values meeting the .05 level
 
-Coefficients of p-values meeting the .05 level
-Resi_Gas -0.1166
-Elect_Price 0.2706
-Bacon 0.2178
-Bananas -0.2587
-Bread -0.4809
-Chicken 0.1626
-Eggs 0.0871
-Inflation 0.0697
+- Resi_Gas	__-0.1166__
+- Elect_Price	__0.2706__
+- Bacon __0.2178__	
+- Bananas 	__-0.2587__	
+- Bread 	__-0.4809__
+- Chicken __0.1626__
+- Eggs __0.0871__
+- Inflation	__0.0697__
 
-Residential Natural Gas increases cause negative sentiment, as well as Bananas and Bread. However surprisingly Inflation increases cause a positive increase in sentiment.
+Residential Natural Gas increases cause negative sentiment, as well as Bananas and Bread. However surprisingly Inflation increases cause a positive increase in sentiment. 
 
-
-
+And when this model was tested against the test set, it reflects the unexplained 20% variance:
+![image](https://user-images.githubusercontent.com/70237462/145617105-059d4009-de0f-4222-8301-db288813231a.png)
 
 
 
