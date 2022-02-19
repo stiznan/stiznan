@@ -1,11 +1,7 @@
 ### Hello, welcome to the Github page of Stan Evans!  👋
 
-  I am in the final stretches of completing my Ms in Data Science at Regis University. Currently I am learning all things data science but I put a big focus on: ETL, Data Engineering, BI, Visualization and the creation of tools for decision science. In previous life I was a sales leader in telecommunications. I love listening to what drives business decisions for different departments, translating this into workable business intelligence, and identifying opportunities in the customer journey, internal business cycle, and wherever my our teams pain points may be. 
+  I am in the final stretches of completing my Ms in Data Science at Regis University. Currently I am learning all things data science but I put a big focus on: ETL, Data Engineering, BI, Visualization and the creation of tools for decision science. In previous life I was a sales leader in telecommunications. Currently, I am a data scientist at Xcel Energy automating services for analysts throughout the company and improving prediction models for wind farms! I love listening to what drives business decisions for different departments, translating this into workable business intelligence, and identifying opportunities in the customer journey, internal business cycle, and wherever my our teams pain points may be. 
   
-🎓 This portfolio is continually being updated! So please check back for more updates as I continue my data journey! 🎓
-
-
-
 📫 How to reach me: 
 - sevans007@regis.edu
 - [LinkedIn Page](https://www.linkedin.com/in/stanley-evans-25820014/)
